@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <br/>
-## 👨🏻‍💻 About Me:
+
+## 👨🏻‍💻 About Me:<br/>
+
 - 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
