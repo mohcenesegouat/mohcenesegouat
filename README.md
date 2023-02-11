@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About Me:<br/>
 
-- 🌱 I’m currently learning `Mobile Development with Flutter`
+- 🌱 I’m currently learning `Mobile Development with React Native`
 
 - 💬 Ask me about anything, Except design :sweat_smile:
 
