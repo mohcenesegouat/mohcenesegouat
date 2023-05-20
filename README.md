@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 About Me:<br/>
 
-- 🌱 I’m currently learning `Mobile Development with React Native`
+- 🌱 I’m currently working on  `Mobile Development with React Native`
 
-- 💬 Ask me about anything, Except design :sweat_smile:
+- 💬 Ask me about anything, Except colors :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn at least one thing in a day :fire: and share what you have learned :tada:
 
@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 
 <p>
   
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
+ 
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25px"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
