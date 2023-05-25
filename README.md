@@ -1,14 +1,6 @@
 ### 👋 Hi there, I'm Mohcen Abdelouahed Segouat!
 
-💡 I thrive on transforming ideas into elegant code and enjoy tackling complex problems through innovative solutions. My journey in computer science has equipped me with a strong foundation in algorithms, data structures, and software development principles.
 
-🚀 With a focus on backend development and a knack for Node.js, I love building robust APIs and crafting efficient database solutions. From designing RESTful architectures to integrating cutting-edge technologies, I'm always up for an exciting coding challenge.
-
-🌱 Currently, I'm dedicated to expanding my skills in developing captivating mobile applications using React Native. From designing intuitive user interfaces to optimizing performance, I am committed to mastering the art of mobile development.
-
-🎯 When I'm not coding, you'll find me sharpening my skills through reading blogs, articles, and building personal projects. I believe in the power of collaboration and value the opportunity to work with diverse teams.
-
-🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me. Together, we can shape the future through technology!
 
 
 <!--
@@ -29,6 +21,15 @@ Here are some ideas to get you started:
 <br/>
 
 ## 👨🏻‍💻 About Me:<br/>
+- 💡 I thrive on transforming ideas into elegant code and enjoy tackling complex problems through innovative solutions. My journey in computer science has equipped me with a strong foundation in algorithms, data structures, and software development principles.
+
+- 🚀 With a focus on backend development and a knack for Node.js, I love building robust APIs and crafting efficient database solutions. From designing RESTful architectures to integrating cutting-edge technologies, I'm always up for an exciting coding challenge.
+
+- 🌱 Currently, I'm dedicated to expanding my skills in developing captivating mobile applications using React Native. From designing intuitive user interfaces to optimizing performance, I am committed to mastering the art of mobile development.
+
+- 🎯 When I'm not coding, you'll find me sharpening my skills through reading blogs, articles, and building personal projects. I believe in the power of collaboration and value the opportunity to work with diverse teams.
+
+- 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me. Together, we can shape the future through technology!
 
 - 🌱 I’m currently working on  `Mobile Development with React Native`
 
