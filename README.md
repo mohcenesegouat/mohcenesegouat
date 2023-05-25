@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Life Hack: Learn at least one thing in a day :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I sleep a lot 🙂
 
 ## 🛠️ Technologies and Tools I use:
 
