@@ -1,4 +1,6 @@
-### Hi there 👋 I am Mohcen Abdelouahed Segouat, I thrive on transforming ideas into elegant code and enjoy tackling complex problems through innovative solutions. My journey in computer science has equipped me with a strong foundation in algorithms, data structures, and software development principles.
+### Hi there 👋 I am Mohcen Abdelouahed Segouat, 
+
+💡 I thrive on transforming ideas into elegant code and enjoy tackling complex problems through innovative solutions. My journey in computer science has equipped me with a strong foundation in algorithms, data structures, and software development principles.
 
 🚀 With a focus on backend development and a knack for Node.js, I love building robust APIs and crafting efficient database solutions. From designing RESTful architectures to integrating cutting-edge technologies, I'm always up for an exciting coding challenge.
 
