@@ -1,4 +1,12 @@
-### Hi there 👋 I am Mohcen Abdelouahed Segouat
+### Hi there 👋 I am Mohcen Abdelouahed Segouat, I thrive on transforming ideas into elegant code and enjoy tackling complex problems through innovative solutions. My journey in computer science has equipped me with a strong foundation in algorithms, data structures, and software development principles.
+
+🚀 With a focus on backend development and a knack for Node.js, I love building robust APIs and crafting efficient database solutions. From designing RESTful architectures to integrating cutting-edge technologies, I'm always up for an exciting coding challenge.
+
+🌱 As I continue my learning journey, I'm currently dedicated to expanding my skills in developing captivating mobile applications using React Native. From designing intuitive user interfaces to optimizing performance, I am committed to mastering the art of mobile development.
+
+🎯 🎯 When I'm not coding, you'll find me sharpening my skills through reading blogs, articles and building personal projects. I believe in the power of collaboration and value the opportunity to work with diverse teams.
+
+🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me. Together, we can shape the future through technology!"
 
 <!--
 **mohcene25100/mohcene25100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +32,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, Except colors :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn at least one thing in a day :fire: and share what you have learned :tada:
+
+- 😄 Fun fact: Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician, is often credited as the world's first computer programmer.
 
 
 ## 🛠️ Technologies and Tools I use:
