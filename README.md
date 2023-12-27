@@ -1,7 +1,18 @@
-### 👋 Hi there, I'm Mohcen Abdelouahed Segouat!
+
+<p align="center">
+👋 Hi there! I'm a React native developer and Backend enthusiast with a passion for building scalable, high-performance mobile applications.</p>
+
+### <p align="center">Stats</p>
+
+-----
 
 
 
+<p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohcenesegouat&hide_border=true&background=2E343E&stroke=393e48&ring=CD0952&fire=CD0952&currStreakNum=C0C6DB&sideNums=C0C6DB&currStreakLabel=CD0952&sideLabels=C0C6DB&dates=586069" alt="mohcenesegouat" /></p>
+
+<p align="center"> <img width=500vw src="https://github-stats-alpha.vercel.app/api?username=mohcenesegouat&cc=2E343E&tc=fff&ic=CD0952&bc=2E343E"/> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohcenesegouat&color=CD0952"/> </p>
 
 <!--
 **mohcene25100/mohcene25100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +32,8 @@ Here are some ideas to get you started:
 <br/>
 
 ## 👨🏻‍💻 About Me:<br/>
+
+
 - 💡 I thrive on transforming ideas into elegant code and enjoy tackling complex problems through innovative solutions. My journey in computer science has equipped me with a strong foundation in algorithms, data structures, and software development principles.
 
 - 🚀 With a focus on backend development and a knack for Node.js, I love building robust APIs and crafting efficient database solutions. From designing RESTful architectures to integrating cutting-edge technologies, I'm always up for an exciting coding challenge.
@@ -32,8 +45,6 @@ Here are some ideas to get you started:
 - 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me. Together, we can shape the future through technology!
 
 - 🌱 I’m currently working on  `Mobile Development with React Native`
-
-- 💬 Ask me about anything, Except colors :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn at least one thing in a day :fire: and share what you have learned :tada:
 
